@@ -1,1 +1,1 @@
-# Power-Consumption-Preictor
+# Power-Consumption-Predictor
